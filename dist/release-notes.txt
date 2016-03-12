@@ -1,3 +1,10 @@
+New in version 4.3.8.ayg
+------------------------
+
+    [ ] backported fix for CVE-2015-0279 (remote code execution) 
+    [ ] custom plugin to paste images from clipboard as base64 embebed image
+
+
 New in Version 4.3.7
 --------------------
 
