@@ -1,3 +1,7 @@
+New in version 4.3.9.ayg
+------------------------
+	[ ] Use log4j by default if available (as Seam does)
+
 New in version 4.3.8.ayg
 ------------------------
 
